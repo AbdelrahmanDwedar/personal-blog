@@ -8,6 +8,7 @@ tags:
   - booleans
 group: JavaScript Struggles
 part: 6
+heroImage: '/js-truthy-falsy.webp'
 ---
 
 # JavaScript Struggles - part 6 - truthy & falsy values

@@ -10,6 +10,7 @@ tags:
   - float
 group: JavaScript Struggles
 part: 2
+heroImage: '/js-numbers.webp'
 ---
 
 # JavaScript Struggles - Part 2 - Numbers
