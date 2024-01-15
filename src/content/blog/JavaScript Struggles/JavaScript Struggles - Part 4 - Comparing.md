@@ -9,7 +9,7 @@ tags:
   - comparing
 group: JavaScript Struggles
 part: 4
-heroImage: '/js-comparing.webp'
+heroImage: "/js-comparing.webp"
 ---
 
 # JavaScript Struggles - Part 4 - Comparing

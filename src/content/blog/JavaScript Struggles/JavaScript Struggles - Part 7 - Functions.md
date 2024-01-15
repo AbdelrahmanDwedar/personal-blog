@@ -8,7 +8,7 @@ tags:
   - functions
 group: JavaScript Strucggles
 part: 7
-heroImage: '/js-functions.webp'
+heroImage: "/js-functions.webp"
 ---
 
 # JavaScript Struggles - Part 7 - Functions
