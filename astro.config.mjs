@@ -9,7 +9,6 @@ import remarkMermaid from "astro-diagram/remark-mermaid";
 export default defineConfig({
   site: "https://abdelrahmandwedar.github.io/personal-blog",
   base: "/personal-blog",
-	output: "hybrid",
   integrations: [mdx(), sitemap()],
   markdown: {
     remarkPlugins: [remarkMermaid],
