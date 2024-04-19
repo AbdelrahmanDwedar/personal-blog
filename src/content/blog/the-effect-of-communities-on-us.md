@@ -2,6 +2,7 @@
 title: The Effect Of Communities On Us
 description: Discussing how can being in a community with its certain biases effect us with the good parts and the bad parts.
 pubDate: Jun 29, 2023
+heroImage: "/tech-community.jpg"
 ---
 
 # The Effect Of Communities On Us
