@@ -7,7 +7,7 @@ import remarkMermaid from "astro-diagram/remark-mermaid";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://abdelrahmandwedar.github.io",
+  site: "https://abdelrahmandwedar.github.io/personal-blog",
   base: "/personal-blog",
   integrations: [mdx(), sitemap()],
   markdown: {
