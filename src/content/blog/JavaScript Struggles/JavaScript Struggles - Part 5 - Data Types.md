@@ -9,7 +9,7 @@ tags:
   - types
 group: JavaScript Struggles
 part: 5
-heroImage: "/js-data-types.webp"
+heroImage: "../js-data-types.webp"
 ---
 
 # JavaScript Struggles - Part 5 - Data Types

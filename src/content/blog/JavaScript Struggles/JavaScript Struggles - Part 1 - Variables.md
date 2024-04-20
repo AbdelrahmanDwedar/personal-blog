@@ -8,7 +8,7 @@ tags:
   - variables
 group: JavaScript Struggles
 part: 1
-heroImage: "/js-variables.webp"
+heroImage: "../js-variables.webp"
 ---
 
 # JavaScript Struggles - Part 1 - Variables

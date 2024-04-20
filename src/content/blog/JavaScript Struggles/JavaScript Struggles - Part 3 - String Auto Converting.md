@@ -10,7 +10,7 @@ tags:
   - strings
 group: JavaScript Struggles
 part: 3
-heroImage: "/js-string-converting.webp"
+heroImage: "../js-string-converting.webp"
 ---
 
 # JavaScript Struggles - Part 3 - String Auto Converting

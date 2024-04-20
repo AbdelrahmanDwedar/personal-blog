@@ -4,7 +4,7 @@ description: Discussing with my current knowledge what language you might start 
 pubDate: Oct 16, 2021
 tags: ["language", "first language", "beginners", "programming"]
 group: "General"
-heroImage: "/what-language-to-start-with.png"
+heroImage: "../what-language-to-start-with.png"
 ---
 
 # What language do I start with? (personal opinion)
