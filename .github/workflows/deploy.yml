@@ -38,9 +38,9 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: "20"
-          cache: pnpm
-          cache-dependency-path: ${{ env.BUILD_PATH }}/pnpm-lock.yaml
+          node-version: 20
+      - name: Setup PNPM
+        run: npm i -g pnpm
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
@@ -66,4 +66,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-
